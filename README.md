@@ -16,10 +16,10 @@
 
 <ul align="left"> 
   <li> Optimization </li>
-  <li> <a text-decoration: none; href=""> Synthetic 3D Gravity Inversion </a> </li>
+  <li> Synthetic 3D Gravity Inversion </li>
   <li> <a text-decoration: none; href="https://github.com/celw10/TOMO2D_2_TOY2DAC"> Full-Waveform Inversion Workflow </a> </li>
   <li> <a text-decoration: none; href="https://github.com/celw10/EXERO"> Automated Ground Magnetics and VLF Data Processing </a> </li>
-  <li> <a text-decoration: none; href=""> Geochemical Assay Data Management </a> </li>
+  <li> Geochemical Assay Data Management </li>
   <li> <a text-decoration: none; href="https://github.com/celw10/nl_minearl_expl"> My Get Coding HTML, CSS, and JS Project </a> </li>
 </ul>
 
