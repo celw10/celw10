@@ -8,7 +8,7 @@
   <li> Former geoscienctist with expirence in natural resource exploration and development :pick: </li>
   <li> Passion for programming originated thorugh my Earth Science degree :computer: </li>
   <li> I like to use programming to solve data-related problems :floppy_disk: </li>
-  <li> I am interested in Deep Learning and applications of AI :robot: </li> 
+  <li> I am interested in Deep Learning and AI applications :robot: </li> 
   <li> Fun fact about me, I love trail running :mountain: </li>
 </ul>
 
