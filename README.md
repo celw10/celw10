@@ -4,7 +4,7 @@
 
 <ul> 
   <li> Living in St. John's Newfoundland and Labrador, Canada :earth_americas: </li>
-  <li> Currently a Software Developemnt Student at Get Coding :telescope: </li>
+  <li> A Software Developemnt Student at Get Coding :telescope: </li>
   <li> Former geoscienctist with expirence in natural resource exploration and development :pick: </li>
   <li> Passion for programming originated thorugh my Earth Science degree :computer: </li>
   <li> I like to use programming to solve data-related problems :floppy_disk: </li>
