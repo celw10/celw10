@@ -22,15 +22,9 @@
   <li> <a text-decoration: none; href="https://github.com/celw10/nl_minearl_expl"> My Get Coding HTML, CSS, and JS Project </a> </li>
 </ul>
 
-<h2 align="left"> My Stats </h2>
-
-<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=celw10&theme=dark" alt="GitHub Streak" height="200px" max-width="65%">
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celw10&layout=compact&theme=dark" alt="Most Used Languages" height="200px" max-width="35%">
-
 <h2 align="left"> Languages and Tools </h2>
 
-<div>
+<div align="left">
   <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='Python' height='40px' width='40px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg' alt='Numpy' height='40px' width='40px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg' alt='Pandas' height='40px' width='40px'>
@@ -41,4 +35,8 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' alt='VSCode' height='40px' width='40px'>
 </div>
 
+<h2 align="left"> My Stats </h2>
 
+<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=celw10&theme=dark" alt="GitHub Streak" height="220px" max-width="65%">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celw10&layout=compact&theme=dark" alt="Most Used Languages" height="220px" max-width="35%">
