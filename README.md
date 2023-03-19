@@ -37,6 +37,6 @@
 
 <h2 align="left"> My Stats </h2>
 
-<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=celw10&theme=dark" alt="GitHub Streak" height="220px" max-width="65%">
+<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=celw10&theme=dark" alt="GitHub Streak" height="160px">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celw10&layout=compact&theme=dark" alt="Most Used Languages" height="220px" max-width="35%">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celw10&layout=compact&theme=dark" alt="Most Used Languages" height="160px" >
