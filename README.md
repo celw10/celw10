@@ -8,13 +8,14 @@
   <li> Former geoscienctist with expirence in natural resource exploration and development :pick: </li>
   <li> Passion for programming originated thorugh my Earth Science degree :computer: </li>
   <li> I like to use programming to solve data-related problems :floppy_disk: </li>
+  <li> I am interested in Deep Learning and applications of AI :robot: </li> 
   <li> Fun fact about me, I love trail running :mountain: </li>
 </ul>
 
 <h2 align="left"> What Have I Worked On </h2>
 
 <ul align="left"> 
-  <li> <a text-decoration: none; href=""> Optimization </a> </li>
+  <li> Optimization </li>
   <li> <a text-decoration: none; href=""> Synthetic 3D Gravity Inversion </a> </li>
   <li> <a text-decoration: none; href="https://github.com/celw10/TOMO2D_2_TOY2DAC"> Full-Waveform Inversion Workflow </a> </li>
   <li> <a text-decoration: none; href="https://github.com/celw10/EXERO"> Automated Ground Magnetics and VLF Data Processing </a> </li>
