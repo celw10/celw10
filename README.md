@@ -21,6 +21,7 @@
   <li> <a text-decoration: none; href="https://github.com/celw10/EXERO"> Automated Ground Magnetics and VLF Data Processing </a> </li>
   <li> Geochemical Assay Data Management </li>
   <li> <a text-decoration: none; href="https://github.com/celw10/nl_minearl_expl"> My Get Coding HTML, CSS, and JS Project </a> </li>
+  <li> <a text-decoration: none; href="https://github.com/celw10/TabularDataExtraction"> OCR and Tabular data extraction tool </a> </li>
 </ul>
 
 <h2 align="left"> Languages and Tools </h2>
